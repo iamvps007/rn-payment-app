@@ -1,0 +1,13 @@
+current directory: /Users/jtit-11139/Documents/prosperrIo/vendor/bundle/ruby/2.6.0/gems/json-2.7.0/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20231202-2417-o1jwsq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jtit-11139/Documents/prosperrIo/vendor/bundle/ruby/2.6.0/gems/json-2.7.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/jtit-11139/Documents/prosperrIo/vendor/bundle/ruby/2.6.0/gems/json-2.7.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/jtit-11139/Documents/prosperrIo/vendor/bundle/ruby/2.6.0/gems/json-2.7.0/ext/json
+make "DESTDIR=" install
